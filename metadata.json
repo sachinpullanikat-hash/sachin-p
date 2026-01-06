@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StatBot Agentic Assistant",
+  "description": "An AI-powered statistical assistant that uses the Gemini API to reason about user requests, fetch student data, and perform deterministic calculations through an agentic workflow.",
+  "requestFramePermissions": []
+}
